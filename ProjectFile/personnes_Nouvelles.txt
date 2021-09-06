@@ -1,0 +1,5 @@
+Participant: Lemieux;Bob;H;3/12/1996
+Participant: Labarre;Annie;F;22/1/1968
+Intervenant: Chabot;Pauline;F;3/11/2001
+Participant: Fleury;Patrick;H;2/1/1990
+Intervenant: Burns;Anne-Marie;F;2/3/1987
